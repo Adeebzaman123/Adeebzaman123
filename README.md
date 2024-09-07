@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Adeebzaman123
+- 👋 Hi, I’m @Adeebzaman123 and a Muslim
 - 👀 I’m interested in tech, coding and chess
 - 🌱 I’m currently learning programming and IT
 - 💞️ I’m looking to collaborate on data analyism
-- 📫 How to reach me, 07307147641 or mohammedadeebzaman@gmal.com
+- 📫 How to reach me, 07307147641 or mohammedadeebzaman@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do boxing
 
